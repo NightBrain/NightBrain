@@ -6,7 +6,7 @@
 
 ## 📒 Now learning about
 Inline-style: 
-![alt text](https://cdn-icons-png.flaticon.com/512/919/919827.png "Logo Title Text 1")
+![alt text](https://www.pikpng.com/pngl/m/597-5977109_html5-css3-javascript-logos-html-css-icon-png.png "Logo Title Text 1")
 
 
 ## ⭐ Quotes
