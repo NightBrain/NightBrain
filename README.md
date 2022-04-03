@@ -7,7 +7,7 @@
 ## 📒 Now learning about
 
 Front End: 
-![alt text](https://www.th-server.com/assets/images/allcs.png "Logo Title Text 1")
+![alt text](https://files.paulcourt.co.uk/images/2019/front-end-optimisation/html5-logo.pngg "Logo Title Text 1")
 
 
 ## ⭐ Quotes
