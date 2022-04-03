@@ -7,7 +7,7 @@
 ## 📒 Now learning about
 
 Front End: 
-![alt text](https://www.pinclipart.com/picdir/big/336-3368555_html-css-javascript-icons-clipart.png "Logo Title Text 1")
+![alt text](https://www.nicepng.com/png/detail/34-345908_html-css-icon-png.png "Logo Title Text 1")
 
 
 ## ⭐ Quotes
