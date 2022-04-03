@@ -7,7 +7,8 @@
 ## 📒 Now learning about
 
 Front End: 
-![alt text](https://files.paulcourt.co.uk/images/2019/front-end-optimisation/html5-logo.png "Logo Title Text 1")
+![alt text](http://rouzell.net/wp-content/uploads/2016/01/html_css.png "Logo Title Text 1")
+
 
 
 ## ⭐ Quotes
