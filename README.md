@@ -4,11 +4,5 @@
 
 🎓 I’m currently learning Front-End, Back-End, DevOps & more
 
-## 📒 Now learning about
-
-Front End: 
-
-![alt text](https://www.bazelet-software.co.il/wp-content/uploads/2017/10/html5-css-javascript-logos-1.png)
-
 ## ⭐ Quotes
 > ทุกอย่างมีทางออกเสมอ ถ้าเราเข้าใจมัน
