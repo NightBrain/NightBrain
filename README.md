@@ -5,8 +5,9 @@
 🎓 I’m currently learning Front-End, Back-End, DevOps & more
 
 ## 📒 Now learning about
-Inline-style: 
-![alt text](https://www.pikpng.com/pngl/m/597-5977109_html5-css3-javascript-logos-html-css-icon-png.png "Logo Title Text 1")
+
+Front End: 
+![alt text](https://www.pinclipart.com/picdir/big/336-3368555_html-css-javascript-icons-clipart.png "Logo Title Text 1")
 
 
 ## ⭐ Quotes
