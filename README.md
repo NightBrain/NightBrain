@@ -7,7 +7,7 @@
 ## 📒 Now learning about
 
 Front End: 
-![alt text](https://www.nicepng.com/png/detail/34-345908_html-css-icon-png.png "Logo Title Text 1")
+![alt text](https://www.codebee.co.th/labs/wp-content/uploads/2016/10/%E0%B8%97%E0%B8%B3%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A%E0%B9%84%E0%B8%8B%E0%B8%95%E0%B9%8C-front-end.png "Logo Title Text 1")
 
 
 ## ⭐ Quotes
