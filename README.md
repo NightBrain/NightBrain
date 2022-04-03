@@ -8,7 +8,7 @@
 
 Front End: 
 
-![alt text](https://www.bazelet-software.co.il/wp-content/uploads/2017/10/html5-css-javascript-logos-1.png "Logo Title Text 1")
+![alt text](https://www.bazelet-software.co.il/wp-content/uploads/2017/10/html5-css-javascript-logos-1.png)
 
 ## ⭐ Quotes
 > ทุกอย่างมีทางออกเสมอ ถ้าเราเข้าใจมัน
