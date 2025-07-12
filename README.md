@@ -1,14 +1,23 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kritsanai, Welcome To My Github Profile
-===============================================================================================================================================================
 
-### Student
+<h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kritsanai, Welcome To My Github Profile</h1>
+<h3 align="center">Everything is possible... ✨</h3>
+<h3 align="center">If you open your mind and are ready to understand it💡</h3>
 
+<p align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=8149F7&width=435&lines=I+AM+a+lifelong+learner+of+coding.;I+AM+Full+Stack+Dev;I+AM+Creative+Design)](https://git.io/typing-svg)
+</p>
+
+---
+
+## 🌐 About Me
 
 🙋‍♂️ my name is Dumex. I am someone who likes and is passionate about programming and web development.
 
-* 🌍  I'm based in Chiang Mai Thailand
-* 🖥️  See my portfolio at [My Port](http://portkritsanai.web.app/)
-* ✉️  You can contact me at [dumexnightbrain@gmail.com](mailto:dumexnightbrain@gmail.com)
+* 🎓 Web Technology Student @ University
+* 🧑‍💻 Specialize in **Full-stack development** (PHP + Framework Laravel + Mysql + TailwindCSS)
+* 🌎 I'm based in in **Chiang Mai, Thailand**
+* 🖥 Portfolio: [My Port](http://portkritsanai.web.app/)
+* 📩 Contact: [dumexnightbrain@gmail.com](mailto:dumexnightbrain@gmail.com)
 * 🧠  I'm learning Front-End, Back-End, DevOps & more
 
 ## Skills
