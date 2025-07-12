@@ -1,10 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kritsanai, Welcome To My Github Profile
-=========================================================================================================================================
-<h3 align="center">Everything is possible... ✨ <br/>
-If you open your mind and are ready to understand it💡</h3>
+<div align="center">
 
+
+<h1>Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="50"/>  My name is Kritsanai Dumex</h1>
+<h2>Welcome To My Github Profile</h2>
+
+<h3>Everything is possible... ✨ <br/>
+If you open your mind and are ready to understand it 💡</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=8149F7&width=435&lines=I+AM+a+lifelong+learner+of+coding.;I+AM+Full+Stack+Dev;I+AM+Creative+Design)](https://git.io/typing-svg)
+
+</div>
 
 
 ---
@@ -20,23 +25,47 @@ If you open your mind and are ready to understand it💡</h3>
 * 📩 Contact: [dumexnightbrain@gmail.com](mailto:dumexnightbrain@gmail.com)
 * 🧠  I'm learning Front-End, Back-End, DevOps & more
 
-## Skills
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NightBrain&label=Profile+Views&color=8B5CF6&style=flat" />
+</p>
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
+---
+
+## 👨‍💻 Skills & Tools -> Full Stack Dev
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,wordpress,tailwind,laravel,php,mysql" /></br>
+  <img src="https://skillicons.dev/icons?i=c,cs,cpp,postman,py,postgres,nodejs" /></br>
+  <img src="https://skillicons.dev/icons?i=git,github,angular,spring,flutter,dart,firebase" /></br>
+</p>
+
+---
+
+## 🎨 Skills & Tools -> Creative Design
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=ps,pr,ai,xd,figma" />
+</p>
+
+---
+
+## 🖤 GitHub Status 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NightBrain&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NightBrain&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NightBrain&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📆 My GitHub Contribution Calendar
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NightBrain&theme=tokyo-night&hide_border=true" />
 </p>
