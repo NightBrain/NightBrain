@@ -1,11 +1,11 @@
 
-<h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kritsanai, Welcome To My Github Profile</h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kritsanai, Welcome To My Github Profile
 <h3 align="center">Everything is possible... ✨</h3>
 <h3 align="center">If you open your mind and are ready to understand it💡</h3>
 
-<p align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=8149F7&width=435&lines=I+AM+a+lifelong+learner+of+coding.;I+AM+Full+Stack+Dev;I+AM+Creative+Design)](https://git.io/typing-svg)
-</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=8149F7&width=435&lines=I+AM+a+lifelong+learner+of+coding.;I+AM+Full+Stack+Dev;I+AM+Creative+Design)](https://git.io/typing-svg)
+
 
 ---
 
