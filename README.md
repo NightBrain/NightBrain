@@ -39,8 +39,6 @@ If you open your mind and are ready to understand it 💡</h3>
   <img src="https://skillicons.dev/icons?i=git,github,angular,spring,flutter,dart,firebase" /></br>
 </p>
 
----
-
 ## 🎨 Skills & Tools -> Creative Design
 
 <p align="center">
