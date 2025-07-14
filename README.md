@@ -6,7 +6,7 @@
 <h3>Everything is possible... ✨ <br/>
 If you open your mind and are ready to understand it 💡</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=8149F7&width=435&lines=I+AM+a+lifelong+learner+of+coding.;I+AM+Full+Stack+Dev;I+AM+Creative+Design)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=8149F7&width=435&lines=I+AM+a+lifelong+learner+of+coding.;I+AM+Full+Stack+Dev;I+AM+Creative+Design)]
 
 </div>
 
