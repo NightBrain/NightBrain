@@ -35,8 +35,8 @@ If you open your mind and are ready to understand it 💡</h3>
 <p align="center">
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,wordpress,tailwind,laravel,php,mysql" /></br>
-  <img src="https://skillicons.dev/icons?i=c,cs,cpp,postman,py,postgres,nodejs" /></br>
-  <img src="https://skillicons.dev/icons?i=git,github,angular,spring,flutter,dart,firebase" /></br>
+  <img src="https://skillicons.dev/icons?i=c,cs,cpp,postman,py,postgres,nodejs,bun" /></br>
+  <img src="https://skillicons.dev/icons?i=git,github,angular,spring,flutter,dart,nextjs,firebase" /></br>
 </p>
 
 ## 🎨 Skills & Tools -> Creative Design
