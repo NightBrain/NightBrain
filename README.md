@@ -55,10 +55,6 @@ If you open your mind and are ready to understand it 💡</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NightBrain&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NightBrain&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ## 📆 My GitHub Contribution Calendar
