@@ -47,18 +47,3 @@ If you open your mind and are ready to understand it 💡</h3>
 </p>
 
 ---
-
-## 🖤 GitHub Status 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NightBrain&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NightBrain&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📆 My GitHub Contribution Calendar
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NightBrain&theme=tokyo-night&hide_border=true" />
-</p>
