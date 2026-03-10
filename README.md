@@ -17,7 +17,6 @@ If you open your mind and are ready to understand it 💡</h3>
 
 🙋‍♂️ my name is Dumex. I am someone who likes and is passionate about programming and web development.
 
-* 🎓 Web Technology Student @ University
 * 🧑‍💻 Specialize in **Full-stack development** (PHP + Framework Laravel + Mysql + TailwindCSS)
 * 🌎 I'm based in in **Chiang Mai, Thailand**
 * 🖥 Portfolio: [My Port](http://portkritsanai.web.app/)
