@@ -4,10 +4,9 @@
 <h1>Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="50"/>  My name is Kritsanai Welcome To My Github Profile</h1>
 
 <h3>Everything is possible... ✨ <br/>
-If you open your mind and are ready to understand it 💡</h3>
+If you open your mind and are ready to understand it 💡</h3><br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=8149F7&width=435&lines=I+AM+a+lifelong+learner+of+coding.;I+AM+Full+Stack+Dev;I+AM+Creative+Design)
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=noto+sans&weight=900&pause=1000&color=8149E8&center=true&random=true&width=435&lines=I+AM+AI-Based+Development+Practices;I+AM+Full+Stack+Dev+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+AM+Creative+Design+%F0%9F%8E%A8)
 </div>
 
 
