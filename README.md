@@ -19,9 +19,7 @@
 | 🧑‍💻 **Specialty** | Full-Stack Dev · PHP · Laravel · MySQL · TailwindCSS |
 | 🧠 **Currently Learning** | Front-End · Back-End · DevOps & more |
 
----
-
-### 💻 Full-Stack Development
+## 💻 Full-Stack Development
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,laravel,php,mysql,py,postgres,angular,spring,flutter,dart,nextjs,firebase&perline=16" /><br/>
@@ -29,7 +27,7 @@
   <img src="https://skillicons.dev/icons?i=postman,git,wordpress,docker,nginx,arduino,redis,ubuntu,vite,vscode&perline=16" /><br/>
 </div>
 
-### 🎨 Creative & Design Tools
+## 🎨 Creative & Design Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ps,pr,ae,au,ai,xd,figma&perline=16" />
@@ -47,10 +45,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=NightBrain&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6)](https://git.io/streak-stats)
 
 </div>
-
----
-
-## 📈 Contribution Graph
 
 <div align="center">
 
