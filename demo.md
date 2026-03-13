@@ -1,46 +1,81 @@
 <div align="center">
 
+# Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40"/> I'm **Kritsanai**
 
-<h1>Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="50"/>  My name is Kritsanai Welcome To My Github Profile</h1>
+### 🚀 Full-Stack Developer · Laravel & Tailwind CSS Specialist · AI Enthusiast
 
-### Full-Stack Developer | Laravel & Tailwind CSS Specialist<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&random=true&width=500&lines=AI-Based+Development+Practitioner+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Creative+Designer+%F0%9F%8E%A8;Always+Learning+%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=noto+sans&weight=900&pause=1000&color=8149E8&center=true&random=true&width=435&lines=I+AM+AI-Based+Development+Practices;I+AM+Full+Stack+Dev+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+AM+Creative+Design+%F0%9F%8E%A8)
+<img src="https://komarev.com/ghpvc/?username=NightBrain&label=Profile+Views&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
+
 </div>
-
 
 ---
 
 ## 🌐 About Me
 
-🙋‍♂️ my name is Dumex. I am someone who likes and is passionate about programming and web development.
+> 🙋‍♂️ Hey! I'm **Dumex** — a passionate developer who loves building beautiful, functional web experiences.
 
-* 🧑‍💻 Specialize in **Full-stack development** (PHP + Framework Laravel + Mysql + TailwindCSS)
-* 🌎 I'm based in in **Chiang Mai, Thailand**
-* 🖥 Portfolio: [My Port](http://portkritsanai.web.app/)
-* 📩 Contact: [dumexnightbrain@gmail.com](mailto:dumexnightbrain@gmail.com)
-* 🧠  I'm learning Front-End, Back-End, DevOps & more
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NightBrain&label=Profile+Views&color=8B5CF6&style=flat" />
-</p>
+| | |
+|---|---|
+| 🧑‍💻 **Specialty** | Full-Stack Dev · PHP · Laravel · MySQL · TailwindCSS |
+| 🗺️ **Location** | Chiang Mai, Thailand 🇹🇭 |
+| 🖥️ **Portfolio** | [portkritsanai.web.app](http://portkritsanai.web.app/) |
+| 📩 **Contact** | [dumexnightbrain@gmail.com](mailto:dumexnightbrain@gmail.com) |
+| 🧠 **Currently Learning** | Front-End · Back-End · DevOps & more |
 
 ---
 
-## 👨‍💻 Skills & Tools -> Full Stack Dev
+## 📊 GitHub Stats
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,wordpress,tailwind,laravel,php,mysql" /></br>
-  <img src="https://skillicons.dev/icons?i=postman,jquery,c,cs,cpp,py,postgres,nodejs,bun" /></br>
-  <img src="https://skillicons.dev/icons?i=git,github,angular,spring,flutter,dart,nextjs,firebase,unity" /></br>
-</p>
+<div align="center">
 
-## 🎨 Skills & Tools -> Creative Design
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NightBrain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NightBrain&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6"/>
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=ps,pr,ai,xd,figma" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=NightBrain&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6)](https://git.io/streak-stats)
+
+</div>
 
 ---
+
+## 💻 Tech Stack
+
+### 💻 Full-Stack Development
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,laravel,php,mysql,py,postgres,angular,spring,flutter,dart,nextjs,firebase&perline=16" /><br/>
+  <img src="https://skillicons.dev/icons?i=postman,jquery,c,cs,cpp,git,wordpress,docker,github,nodejs,bun,unity&perline=16" /><br/>
+</div>
+
+### 🎨 Creative & Design Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ps,pr,ai,xd,figma&perline=5" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=NightBrain&theme=tokyonight&row=1&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=Google-Chrome&logoColor=white)](http://portkritsanai.web.app/)
+[![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:dumexnightbrain@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NightBrain)
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=80&section=footer"/>
+</div>
