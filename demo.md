@@ -45,22 +45,23 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,laravel,php,mysql,py,postgres,angular,spring,flutter,dart,nextjs,firebase&perline=16" /><br/>
-  <img src="https://skillicons.dev/icons?i=postman,jquery,c,cs,cpp,git,wordpress,docker,github,nodejs,bun,unity&perline=16" /><br/>
+  <img src="https://skillicons.dev/icons?i=jquery,c,cs,cpp,github,nodejs,bun,unity,alpinejs,androidstudio,react,azure,gcp,cloudflare,gradle,npm&perline=16" /><br/>
+  <img src="https://skillicons.dev/icons?i=postman,git,wordpress,docker,nginx,arduino,redis,ubuntu,vite,vscode&perline=16" /><br/>
 </div>
 
 ### 🎨 Creative & Design Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ps,pr,ai,xd,figma&perline=5" />
+  <img src="https://skillicons.dev/icons?i=ps,pr,ae,au,ai,xd,figma&perline=16" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=NightBrain&theme=tokyonight&row=1&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NightBrain&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
