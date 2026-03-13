@@ -26,19 +26,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NightBrain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NightBrain&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6"/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=NightBrain&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 💻 Tech Stack
 
 ### 💻 Full-Stack Development
@@ -53,6 +40,18 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ps,pr,ae,au,ai,xd,figma&perline=16" />
+</div>
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NightBrain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NightBrain&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=NightBrain&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6)](https://git.io/streak-stats)
+
 </div>
 
 ---
