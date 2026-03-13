@@ -4,7 +4,7 @@
 
 ### 🚀 Full-Stack Developer · Laravel & Tailwind CSS Specialist · AI Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&random=true&width=500&lines=AI-Based+Development+Practitioner+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Creative+Designer+%F0%9F%8E%A8;Always+Learning+%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=8149E8&center=true&random=true&width=435&lines=I'AM+AI-Based+Development+Practices;I'AM+Full+Stack+Dev+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'AM+Creative+Design+%F0%9F%8E%A8)
 
 <img src="https://komarev.com/ghpvc/?username=NightBrain&label=Profile+Views&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
 
