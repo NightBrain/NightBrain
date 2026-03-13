@@ -17,6 +17,7 @@
 > 🙋‍♂️ Hey! I'm **Dumex** — a passionate developer who loves building beautiful, functional web experiences.
 
 | | |
+|---|---|
 | 🧑‍💻 **Specialty** | Full-Stack Dev · PHP · Laravel · MySQL · TailwindCSS |
 | 🗺️ **Location** | Chiang Mai, Thailand 🇹🇭 |
 | 🖥️ **Portfolio** | [portkritsanai.web.app](http://portkritsanai.web.app/) |
