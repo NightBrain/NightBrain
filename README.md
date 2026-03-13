@@ -12,14 +12,14 @@
 
 ---
 
-## 🌐 About Me
+### 🌐 About Me
 
 | 🙋‍♂️ Hey! I'm **Dumex** | a passionate developer who loves building beautiful, functional web experiences. |
 |------|-------------|
 | 🧑‍💻 **Specialty** | Full-Stack Dev · PHP · Laravel · MySQL · TailwindCSS |
 | 🧠 **Currently Learning** | Front-End · Back-End · DevOps & more |
 
-## 💻 Full-Stack Development
+### 💻 Full-Stack Development
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,laravel,php,mysql,py,postgres,angular,spring,flutter,dart,nextjs,firebase&perline=16" /><br/>
@@ -27,7 +27,7 @@
   <img src="https://skillicons.dev/icons?i=postman,git,wordpress,docker,nginx,arduino,redis,ubuntu,vite,vscode&perline=16" /><br/>
 </div>
 
-## 🎨 Creative & Design Tools
+### 🎨 Creative & Design Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ps,pr,ae,au,ai,xd,figma&perline=16" />
@@ -35,7 +35,7 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
@@ -54,7 +54,7 @@
 
 ---
 
-## 🤝 Let's Connect
+### 🤝 Let's Connect
 
 <div align="center">
 
