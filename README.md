@@ -21,8 +21,6 @@
 
 ---
 
-## 💻 Tech Stack
-
 ### 💻 Full-Stack Development
 
 <div align="center">
