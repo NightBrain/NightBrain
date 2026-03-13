@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40"/> I'm **Kritsanai**
+# Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40"/> I'm **Kritsanai** **Deenu**
 
 ### 🚀 Full-Stack Developer · Laravel & Tailwind CSS Specialist · AI Enthusiast
 
