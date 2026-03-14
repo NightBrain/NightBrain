@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kritsanai%20Deenu&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Creative%20Designer&descSize=16&descAlignY=55"/>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1b2e,100:8B5CF6&height=200&section=header&text=NIGHT_BRAIN&fontSize=50&fontColor=A78BFA&animation=fadeIn&fontAlignY=35&desc=%3E_%20Full-Stack%20Developer%20|%20Building%20the%20future%20with%20code&descSize=14&descAlignY=55&descColor=6366f1"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=A78BFA&center=true&random=true&width=435&lines=%F0%9F%92%BB+AI-Based+Development+Practices;%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Laravel+Specialist;%F0%9F%8E%A8+Creative+Design)](https://git.io/typing-svg)
 
