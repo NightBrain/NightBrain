@@ -36,7 +36,7 @@ alias: Dumex / NightBrain
 role: Full-Stack Developer
 
 about:
-  - 🔭 Passionate developer who loves building, functional web experiences
+  - 🔭 Passionate developer building, functional web experiences
   - 🧑‍💻 Specialty in PHP, Laravel, MySQL & TailwindCSS
   - 🌱 Currently learning Front-End, Back-End, DevOps & more
   - 🤖 Exploring AI-based development practices
