@@ -1,69 +1,111 @@
 <div align="center">
 
-# Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40"/> I'm **Kritsanai** **Deenu**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kritsanai%20Deenu&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Creative%20Designer&descSize=16&descAlignY=55"/>
 
-### 🚀 Full-Stack Developer · Laravel & Tailwind CSS Specialist · AI Enthusiast
+<br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=8149E8&center=true&random=true&width=435&lines=I'm+AI-Based+Development+Practices;I'm+Full+Stack+Dev+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+Creative+Design+%F0%9F%8E%A8)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=70&lines=%F0%9F%92%BB+AI-Based+Development+Practices;%F0%9F%9A%80+Full+Stack+Developer+%7C+Laravel+Specialist;%F0%9F%8E%A8+Creative+Design+%26+Beautiful+UX)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=NightBrain&label=Profile+Views&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
+<br/>
 
-</div>
-
----
-
-### 🌐 About Me
-
-| 🙋‍♂️ Hey! I'm **Dumex** | a passionate developer who loves building beautiful, functional web experiences. |
-|------|-------------|
-| 🧑‍💻 **Specialty** | Full-Stack Dev · PHP · Laravel · MySQL · TailwindCSS |
-| 🧠 **Currently Learning** | Front-End · Back-End · DevOps & more |
-
-### 💻 Full-Stack Development
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,laravel,php,mysql,py,postgres,angular,spring,flutter,dart,nextjs,firebase&perline=16" /><br/>
-  <img src="https://skillicons.dev/icons?i=jquery,c,cs,cpp,github,nodejs,bun,unity,alpinejs,androidstudio,react,azure,gcp,cloudflare,gradle,npm&perline=16" /><br/>
-  <img src="https://skillicons.dev/icons?i=postman,git,wordpress,docker,nginx,arduino,redis,ubuntu,vite,vscode&perline=16" /><br/>
-</div>
-
-### 🎨 Creative & Design Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ps,pr,ae,au,ai,xd,figma&perline=16" />
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NightBrain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NightBrain&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6"/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=NightBrain&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6)](https://git.io/streak-stats)
+<a href="https://github.com/NightBrain">
+  <img src="https://komarev.com/ghpvc/?username=NightBrain&label=Profile+Views&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
+</a>
+<a href="https://github.com/NightBrain?tab=followers">
+  <img src="https://img.shields.io/github/followers/NightBrain?style=for-the-badge&color=8B5CF6&labelColor=1a1b27&logo=github" alt="Followers" />
+</a>
+<a href="https://github.com/NightBrain?tab=repositories">
+  <img src="https://img.shields.io/github/stars/NightBrain?style=for-the-badge&color=8B5CF6&labelColor=1a1b27&logo=github" alt="Stars" />
+</a>
 
 </div>
 
+<br/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"/> &nbsp;About Me
+
+```yaml
+name: Kritsanai Deenu
+alias: Dumex / NightBrain
+role: Full-Stack Developer
+
+about:
+  - 🔭 Passionate developer who loves building beautiful, functional web experiences
+  - 🧑‍💻 Specialty in PHP, Laravel, MySQL & TailwindCSS
+  - 🌱 Currently learning Front-End, Back-End, DevOps & more
+  - 🤖 Exploring AI-based development practices
+  - 🎨 Creative designer with an eye for beautiful UX
+
+location: Thailand 🇹🇭
+```
+
+<br/>
+
+## 🛠️ &nbsp;Tech Stack
+
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NightBrain&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### ⚡ Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=php,laravel,js,ts,py,dart,c,cs,cpp,java&perline=10" /><br/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,alpinejs,jquery,react,nextjs,angular,flutter&perline=10" />
+
+### 🗄️ Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,bun,spring,mysql,postgres,redis,firebase,nginx,docker,ubuntu&perline=10" />
+
+### 🔧 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vite,npm,gradle,wordpress,arduino,unity&perline=10" /><br/>
+<img src="https://skillicons.dev/icons?i=azure,gcp,cloudflare,androidstudio&perline=10" />
+
+### 🎨 Creative & Design
+<img src="https://skillicons.dev/icons?i=ps,pr,ae,au,ai,xd,figma&perline=10" />
 
 </div>
 
----
+<br/>
 
-### 🤝 Let's Connect
+## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=Google-Chrome&logoColor=white)](http://portkritsanai.web.app/)
-[![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:dumexnightbrain@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NightBrain)
+<a href="https://github.com/NightBrain">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NightBrain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&ring_color=A78BFA" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NightBrain&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" alt="Top Languages"/>
+</a>
+
+<br/><br/>
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=NightBrain&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=F97316&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=555555" alt="GitHub Streak"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NightBrain&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=F97316&area=true&area_color=A78BFA" alt="Activity Graph"/>
+</a>
 
 </div>
 
+<br/>
+
+## 🤝 &nbsp;Let's Connect
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=80&section=footer"/>
+
+<a href="http://portkritsanai.web.app/">
+  <img src="https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio"/>
+</a>&nbsp;
+<a href="mailto:dumexnightbrain@gmail.com">
+  <img src="https://img.shields.io/badge/Email-F97316?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/>
+</a>&nbsp;
+<a href="https://github.com/NightBrain">
+  <img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 </div>
