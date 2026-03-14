@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=70&lines=%F0%9F%92%BB+AI-Based+Development+Practices;%F0%9F%9A%80+Full+Stack+Developer+%7C+Laravel+Specialist;%F0%9F%8E%A8+Creative+Design+%26+Beautiful+UX)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=A78BFA&center=true&random=true&width=435&lines=%F0%9F%92%BB+AI-Based+Development+Practices;%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Laravel+Specialist;%F0%9F%8E%A8+Creative+Design)](https://git.io/typing-svg)
 
 <br/>
 
