@@ -6,15 +6,9 @@
 
 <br/>
 
-<a href="https://github.com/NightBrain">
-  <img src="https://komarev.com/ghpvc/?username=NightBrain&label=Profile+Views&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
-</a>
-<a href="https://github.com/NightBrain?tab=followers">
-  <img src="https://img.shields.io/github/followers/NightBrain?style=for-the-badge&color=8B5CF6&labelColor=1a1b27&logo=github" alt="Followers" />
-</a>
-<a href="https://github.com/NightBrain?tab=repositories">
-  <img src="https://img.shields.io/github/stars/NightBrain?style=for-the-badge&color=8B5CF6&labelColor=1a1b27&logo=github" alt="Stars" />
-</a>
+<a href="https://github.com/NightBrain"><img src="https://komarev.com/ghpvc/?username=NightBrain&label=Profile+Views&color=8B5CF6&style=for-the-badge" alt="Profile Views" /></a>
+<a href="https://github.com/NightBrain?tab=followers"><img src="https://img.shields.io/github/followers/NightBrain?style=for-the-badge&color=8B5CF6&labelColor=1a1b27&logo=github" alt="Followers" /></a>
+<a href="https://github.com/NightBrain?tab=repositories"><img src="https://img.shields.io/github/stars/NightBrain?style=for-the-badge&color=8B5CF6&labelColor=1a1b27&logo=github" alt="Stars" /></a>
 
 </div>
 
@@ -65,10 +59,7 @@ location: Thailand 🇹🇭
 
 <div align="center">
 
-<a href="https://github.com/NightBrain">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NightBrain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&ring_color=A78BFA" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NightBrain&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" alt="Top Languages"/>
-</a>
+<a href="https://github.com/NightBrain"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=NightBrain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&ring_color=A78BFA" alt="GitHub Stats"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NightBrain&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" alt="Top Languages"/></a>
 
 <br/><br/>
 
@@ -90,15 +81,9 @@ location: Thailand 🇹🇭
 
 <div align="center">
 
-<a href="http://portkritsanai.web.app/">
-  <img src="https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio"/>
-</a>&nbsp;
-<a href="mailto:dumexnightbrain@gmail.com">
-  <img src="https://img.shields.io/badge/Email-F97316?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/>
-</a>&nbsp;
-<a href="https://github.com/NightBrain">
-  <img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+<a href="http://portkritsanai.web.app/"><img src="https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio"/></a>&nbsp;
+<a href="mailto:dumexnightbrain@gmail.com"><img src="https://img.shields.io/badge/Email-F97316?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/></a>&nbsp;
+<a href="https://github.com/NightBrain"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </div>
 
