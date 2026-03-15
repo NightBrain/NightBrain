@@ -32,7 +32,7 @@
 
 ```yaml
 name: Kritsanai Deenu
-alias: Dumex / NightBrain
+alias: NightBrain
 role: Full-Stack Developer
 
 about:
