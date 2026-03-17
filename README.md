@@ -111,8 +111,8 @@ location: Thailand 🇹🇭
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NightBrain&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=F59E0B&text_color=c9d1d9&ring_color=A855F7&rank_icon=github" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NightBrain&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9" alt="Top Languages"/>
+<img width="55%" src="https://github-readme-stats.vercel.app/api?username=NightBrain&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=F59E0B&text_color=c9d1d9&ring_color=A855F7" alt="GitHub Stats"/>
+<img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NightBrain&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9" alt="Top Languages"/>
 
 <br/><br/>
 
