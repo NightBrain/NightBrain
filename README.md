@@ -4,7 +4,7 @@
 <!--                          ✦ HEADER BANNER ✦                           -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1b2e,50:6C3CE1,75:A855F7,100:D8B4FE&height=220&section=header&text=Kritsanai%20Deenu&fontSize=52&fontColor=FFFFFF&animation=twinkling&fontAlignY=32&desc=%E2%9C%A8%20Full-Stack%20Developer%20%C2%B7%20Creative%20Coder%20%C2%B7%20Digital%20Craftsman%20%E2%9C%A8&descSize=15&descAlignY=52&descColor=D8B4FE"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1b2e,50:6C3CE1,75:A855F7,100:D8B4FE&height=220&section=header&text=Hey!%20I'm%20Kritsanai%20Deenu&fontSize=52&fontColor=FFFFFF&animation=twinkling&fontAlignY=32&desc=%E2%9C%A8%20Full-Stack%20Developer%20%C2%B7%20Creative%20Coder%20%C2%B7%20Digital%20Craftsman%20%E2%9C%A8&descSize=15&descAlignY=52&descColor=D8B4FE"/>
 
 <!-- Animated typing -->
 <br/>
