@@ -61,9 +61,9 @@ location: Thailand 🇹🇭
 ### 💻 Languages & Frameworks
 <br/>
 
-<img src="https://skillicons.dev/icons?i=php,laravel,js,ts,py,dart&perline=6" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs&perline=6" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=angular,flutter,alpinejs,jquery,c,cpp&perline=6" />
+<img src="https://skillicons.dev/icons?i=php,laravel,tailwind,py,dart,alpinejs&perline=6" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nextjs&perline=6" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=angular,flutter,jquery,c,cpp&perline=6" />
 
 </td>
 <td align="center" width="50%">
@@ -73,7 +73,7 @@ location: Thailand 🇹🇭
 
 <img src="https://skillicons.dev/icons?i=nodejs,bun,spring,nginx,docker,ubuntu&perline=6" /><br/><br/>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,firebase,azure,gcp&perline=6" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=cloudflare,wordpress,arduino,unity,cs,java&perline=6" />
+<img src="https://skillicons.dev/icons?i=cloudflare,wordpress,arduino,unity,cs&perline=6" />
 
 </td>
 </tr>
